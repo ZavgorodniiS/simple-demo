@@ -1,2 +1,3 @@
-# simple-demo
-This is simple repository for training
+# simple Example Repository
+
+This is just an example repository rof traning purposes.
